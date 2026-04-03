@@ -7,6 +7,7 @@
 
 ## How to Run (I ran in linux terminal)
 as get_post.s -o get_post.o
+
 ld get_post.o  -o get_post
 #Thus creating an executable file get_post
 
